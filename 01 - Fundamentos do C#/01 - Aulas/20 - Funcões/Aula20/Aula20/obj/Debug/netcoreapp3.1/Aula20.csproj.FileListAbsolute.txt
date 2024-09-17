@@ -1,0 +1,14 @@
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\01 - C#\01 - Aulas\20 - Funcões\Aula20\Aula20\bin\Debug\netcoreapp3.1\Aula20.exe
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\01 - C#\01 - Aulas\20 - Funcões\Aula20\Aula20\bin\Debug\netcoreapp3.1\Aula20.deps.json
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\01 - C#\01 - Aulas\20 - Funcões\Aula20\Aula20\bin\Debug\netcoreapp3.1\Aula20.runtimeconfig.json
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\01 - C#\01 - Aulas\20 - Funcões\Aula20\Aula20\bin\Debug\netcoreapp3.1\Aula20.runtimeconfig.dev.json
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\01 - C#\01 - Aulas\20 - Funcões\Aula20\Aula20\bin\Debug\netcoreapp3.1\Aula20.dll
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\01 - C#\01 - Aulas\20 - Funcões\Aula20\Aula20\bin\Debug\netcoreapp3.1\Aula20.pdb
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\01 - C#\01 - Aulas\20 - Funcões\Aula20\Aula20\obj\Debug\netcoreapp3.1\Aula20.csproj.AssemblyReference.cache
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\01 - C#\01 - Aulas\20 - Funcões\Aula20\Aula20\obj\Debug\netcoreapp3.1\Aula20.GeneratedMSBuildEditorConfig.editorconfig
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\01 - C#\01 - Aulas\20 - Funcões\Aula20\Aula20\obj\Debug\netcoreapp3.1\Aula20.AssemblyInfoInputs.cache
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\01 - C#\01 - Aulas\20 - Funcões\Aula20\Aula20\obj\Debug\netcoreapp3.1\Aula20.AssemblyInfo.cs
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\01 - C#\01 - Aulas\20 - Funcões\Aula20\Aula20\obj\Debug\netcoreapp3.1\Aula20.csproj.CoreCompileInputs.cache
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\01 - C#\01 - Aulas\20 - Funcões\Aula20\Aula20\obj\Debug\netcoreapp3.1\Aula20.dll
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\01 - C#\01 - Aulas\20 - Funcões\Aula20\Aula20\obj\Debug\netcoreapp3.1\Aula20.pdb
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\01 - C#\01 - Aulas\20 - Funcões\Aula20\Aula20\obj\Debug\netcoreapp3.1\Aula20.genruntimeconfig.cache

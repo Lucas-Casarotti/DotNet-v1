@@ -1,0 +1,14 @@
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\01 - C#\01 - Aulas\06 - Entrada e saída de dados\Aula06\Aula06\bin\Debug\netcoreapp3.1\Aula06.exe
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\01 - C#\01 - Aulas\06 - Entrada e saída de dados\Aula06\Aula06\bin\Debug\netcoreapp3.1\Aula06.deps.json
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\01 - C#\01 - Aulas\06 - Entrada e saída de dados\Aula06\Aula06\bin\Debug\netcoreapp3.1\Aula06.runtimeconfig.json
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\01 - C#\01 - Aulas\06 - Entrada e saída de dados\Aula06\Aula06\bin\Debug\netcoreapp3.1\Aula06.runtimeconfig.dev.json
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\01 - C#\01 - Aulas\06 - Entrada e saída de dados\Aula06\Aula06\bin\Debug\netcoreapp3.1\Aula06.dll
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\01 - C#\01 - Aulas\06 - Entrada e saída de dados\Aula06\Aula06\bin\Debug\netcoreapp3.1\Aula06.pdb
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\01 - C#\01 - Aulas\06 - Entrada e saída de dados\Aula06\Aula06\obj\Debug\netcoreapp3.1\Aula06.csproj.AssemblyReference.cache
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\01 - C#\01 - Aulas\06 - Entrada e saída de dados\Aula06\Aula06\obj\Debug\netcoreapp3.1\Aula06.GeneratedMSBuildEditorConfig.editorconfig
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\01 - C#\01 - Aulas\06 - Entrada e saída de dados\Aula06\Aula06\obj\Debug\netcoreapp3.1\Aula06.AssemblyInfoInputs.cache
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\01 - C#\01 - Aulas\06 - Entrada e saída de dados\Aula06\Aula06\obj\Debug\netcoreapp3.1\Aula06.AssemblyInfo.cs
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\01 - C#\01 - Aulas\06 - Entrada e saída de dados\Aula06\Aula06\obj\Debug\netcoreapp3.1\Aula06.csproj.CoreCompileInputs.cache
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\01 - C#\01 - Aulas\06 - Entrada e saída de dados\Aula06\Aula06\obj\Debug\netcoreapp3.1\Aula06.dll
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\01 - C#\01 - Aulas\06 - Entrada e saída de dados\Aula06\Aula06\obj\Debug\netcoreapp3.1\Aula06.pdb
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\01 - C#\01 - Aulas\06 - Entrada e saída de dados\Aula06\Aula06\obj\Debug\netcoreapp3.1\Aula06.genruntimeconfig.cache

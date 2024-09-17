@@ -1,0 +1,11 @@
+E:\Usuários\Lucas\Área de Trabalho\teste\DataAccess.exe
+E:\Usuários\Lucas\Área de Trabalho\teste\DataAccess.dll
+E:\Usuários\Lucas\Área de Trabalho\teste\DataAccess.deps.json
+E:\Usuários\Lucas\Área de Trabalho\teste\DataAccess.runtimeconfig.json
+E:\Usuários\Lucas\Área de Trabalho\teste\DataAccess.pdb
+E:\Usuários\Lucas\Área de Trabalho\teste\System.Data.SqlClient.dll
+E:\Usuários\Lucas\Área de Trabalho\teste\runtimes\win-arm64\native\sni.dll
+E:\Usuários\Lucas\Área de Trabalho\teste\runtimes\win-x64\native\sni.dll
+E:\Usuários\Lucas\Área de Trabalho\teste\runtimes\win-x86\native\sni.dll
+E:\Usuários\Lucas\Área de Trabalho\teste\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Usuários\Lucas\Área de Trabalho\teste\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

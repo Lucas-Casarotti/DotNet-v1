@@ -1,0 +1,14 @@
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\01 - C#\01 - Aulas\18 - While\Aula18\Aula18\bin\Debug\netcoreapp3.1\Aula18.exe
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\01 - C#\01 - Aulas\18 - While\Aula18\Aula18\bin\Debug\netcoreapp3.1\Aula18.deps.json
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\01 - C#\01 - Aulas\18 - While\Aula18\Aula18\bin\Debug\netcoreapp3.1\Aula18.runtimeconfig.json
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\01 - C#\01 - Aulas\18 - While\Aula18\Aula18\bin\Debug\netcoreapp3.1\Aula18.runtimeconfig.dev.json
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\01 - C#\01 - Aulas\18 - While\Aula18\Aula18\bin\Debug\netcoreapp3.1\Aula18.dll
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\01 - C#\01 - Aulas\18 - While\Aula18\Aula18\bin\Debug\netcoreapp3.1\Aula18.pdb
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\01 - C#\01 - Aulas\18 - While\Aula18\Aula18\obj\Debug\netcoreapp3.1\Aula18.csproj.AssemblyReference.cache
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\01 - C#\01 - Aulas\18 - While\Aula18\Aula18\obj\Debug\netcoreapp3.1\Aula18.GeneratedMSBuildEditorConfig.editorconfig
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\01 - C#\01 - Aulas\18 - While\Aula18\Aula18\obj\Debug\netcoreapp3.1\Aula18.AssemblyInfoInputs.cache
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\01 - C#\01 - Aulas\18 - While\Aula18\Aula18\obj\Debug\netcoreapp3.1\Aula18.AssemblyInfo.cs
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\01 - C#\01 - Aulas\18 - While\Aula18\Aula18\obj\Debug\netcoreapp3.1\Aula18.csproj.CoreCompileInputs.cache
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\01 - C#\01 - Aulas\18 - While\Aula18\Aula18\obj\Debug\netcoreapp3.1\Aula18.dll
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\01 - C#\01 - Aulas\18 - While\Aula18\Aula18\obj\Debug\netcoreapp3.1\Aula18.pdb
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\01 - C#\01 - Aulas\18 - While\Aula18\Aula18\obj\Debug\netcoreapp3.1\Aula18.genruntimeconfig.cache

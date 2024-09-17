@@ -1,0 +1,63 @@
+E:\Usuários\Lucas\Área de Trabalho\teste\DataAccess\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.exe
+E:\Usuários\Lucas\Área de Trabalho\teste\DataAccess\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+E:\Usuários\Lucas\Área de Trabalho\teste\DataAccess\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.json
+E:\Usuários\Lucas\Área de Trabalho\teste\DataAccess\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.dev.json
+E:\Usuários\Lucas\Área de Trabalho\teste\DataAccess\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+E:\Usuários\Lucas\Área de Trabalho\teste\DataAccess\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+E:\Usuários\Lucas\Área de Trabalho\teste\DataAccess\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.AssemblyReference.cache
+E:\Usuários\Lucas\Área de Trabalho\teste\DataAccess\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Usuários\Lucas\Área de Trabalho\teste\DataAccess\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+E:\Usuários\Lucas\Área de Trabalho\teste\DataAccess\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+E:\Usuários\Lucas\Área de Trabalho\teste\DataAccess\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+E:\Usuários\Lucas\Área de Trabalho\teste\DataAccess\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+E:\Usuários\Lucas\Área de Trabalho\teste\DataAccess\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+E:\Usuários\Lucas\Área de Trabalho\teste\DataAccess\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.genruntimeconfig.cache
+E:\Usuários\Lucas\Área de Trabalho\teste\DataAccess\DataAccess\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Usuários\Lucas\Área de Trabalho\teste\DataAccess\DataAccess\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Usuários\Lucas\Área de Trabalho\teste\DataAccess\DataAccess\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Usuários\Lucas\Área de Trabalho\teste\DataAccess\DataAccess\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Usuários\Lucas\Área de Trabalho\teste\DataAccess\DataAccess\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Usuários\Lucas\Área de Trabalho\teste\DataAccess\DataAccess\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Usuários\Lucas\Área de Trabalho\teste\DataAccess\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\03 - Acesso à dados com C#\01 - Acesso a dados com ADO.NET\DataAccess\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.exe
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\03 - Acesso à dados com C#\01 - Acesso a dados com ADO.NET\DataAccess\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\03 - Acesso à dados com C#\01 - Acesso a dados com ADO.NET\DataAccess\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.json
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\03 - Acesso à dados com C#\01 - Acesso a dados com ADO.NET\DataAccess\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.dev.json
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\03 - Acesso à dados com C#\01 - Acesso a dados com ADO.NET\DataAccess\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\03 - Acesso à dados com C#\01 - Acesso a dados com ADO.NET\DataAccess\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\03 - Acesso à dados com C#\01 - Acesso a dados com ADO.NET\DataAccess\DataAccess\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\03 - Acesso à dados com C#\01 - Acesso a dados com ADO.NET\DataAccess\DataAccess\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\03 - Acesso à dados com C#\01 - Acesso a dados com ADO.NET\DataAccess\DataAccess\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\03 - Acesso à dados com C#\01 - Acesso a dados com ADO.NET\DataAccess\DataAccess\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\03 - Acesso à dados com C#\01 - Acesso a dados com ADO.NET\DataAccess\DataAccess\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\03 - Acesso à dados com C#\01 - Acesso a dados com ADO.NET\DataAccess\DataAccess\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\03 - Acesso à dados com C#\01 - Acesso a dados com ADO.NET\DataAccess\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.AssemblyReference.cache
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\03 - Acesso à dados com C#\01 - Acesso a dados com ADO.NET\DataAccess\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\03 - Acesso à dados com C#\01 - Acesso a dados com ADO.NET\DataAccess\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\03 - Acesso à dados com C#\01 - Acesso a dados com ADO.NET\DataAccess\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\03 - Acesso à dados com C#\01 - Acesso a dados com ADO.NET\DataAccess\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\03 - Acesso à dados com C#\01 - Acesso a dados com ADO.NET\DataAccess\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\03 - Acesso à dados com C#\01 - Acesso a dados com ADO.NET\DataAccess\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\03 - Acesso à dados com C#\01 - Acesso a dados com ADO.NET\DataAccess\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+E:\Usuários\Lucas\Área de Trabalho\Back-end-v1\03 - Acesso à dados com C#\01 - Acesso a dados com ADO.NET\DataAccess\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.genruntimeconfig.cache
+E:\Usuários\Lucas\Área de Trabalho\GitHub\Back-end-v1\03 - Acesso à dados com C#\01 - Acesso a dados com ADO.NET\DataAccess\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.exe
+E:\Usuários\Lucas\Área de Trabalho\GitHub\Back-end-v1\03 - Acesso à dados com C#\01 - Acesso a dados com ADO.NET\DataAccess\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+E:\Usuários\Lucas\Área de Trabalho\GitHub\Back-end-v1\03 - Acesso à dados com C#\01 - Acesso a dados com ADO.NET\DataAccess\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.json
+E:\Usuários\Lucas\Área de Trabalho\GitHub\Back-end-v1\03 - Acesso à dados com C#\01 - Acesso a dados com ADO.NET\DataAccess\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.dev.json
+E:\Usuários\Lucas\Área de Trabalho\GitHub\Back-end-v1\03 - Acesso à dados com C#\01 - Acesso a dados com ADO.NET\DataAccess\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+E:\Usuários\Lucas\Área de Trabalho\GitHub\Back-end-v1\03 - Acesso à dados com C#\01 - Acesso a dados com ADO.NET\DataAccess\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+E:\Usuários\Lucas\Área de Trabalho\GitHub\Back-end-v1\03 - Acesso à dados com C#\01 - Acesso a dados com ADO.NET\DataAccess\DataAccess\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Usuários\Lucas\Área de Trabalho\GitHub\Back-end-v1\03 - Acesso à dados com C#\01 - Acesso a dados com ADO.NET\DataAccess\DataAccess\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Usuários\Lucas\Área de Trabalho\GitHub\Back-end-v1\03 - Acesso à dados com C#\01 - Acesso a dados com ADO.NET\DataAccess\DataAccess\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Usuários\Lucas\Área de Trabalho\GitHub\Back-end-v1\03 - Acesso à dados com C#\01 - Acesso a dados com ADO.NET\DataAccess\DataAccess\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Usuários\Lucas\Área de Trabalho\GitHub\Back-end-v1\03 - Acesso à dados com C#\01 - Acesso a dados com ADO.NET\DataAccess\DataAccess\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Usuários\Lucas\Área de Trabalho\GitHub\Back-end-v1\03 - Acesso à dados com C#\01 - Acesso a dados com ADO.NET\DataAccess\DataAccess\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Usuários\Lucas\Área de Trabalho\GitHub\Back-end-v1\03 - Acesso à dados com C#\01 - Acesso a dados com ADO.NET\DataAccess\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.AssemblyReference.cache
+E:\Usuários\Lucas\Área de Trabalho\GitHub\Back-end-v1\03 - Acesso à dados com C#\01 - Acesso a dados com ADO.NET\DataAccess\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Usuários\Lucas\Área de Trabalho\GitHub\Back-end-v1\03 - Acesso à dados com C#\01 - Acesso a dados com ADO.NET\DataAccess\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+E:\Usuários\Lucas\Área de Trabalho\GitHub\Back-end-v1\03 - Acesso à dados com C#\01 - Acesso a dados com ADO.NET\DataAccess\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+E:\Usuários\Lucas\Área de Trabalho\GitHub\Back-end-v1\03 - Acesso à dados com C#\01 - Acesso a dados com ADO.NET\DataAccess\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+E:\Usuários\Lucas\Área de Trabalho\GitHub\Back-end-v1\03 - Acesso à dados com C#\01 - Acesso a dados com ADO.NET\DataAccess\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+E:\Usuários\Lucas\Área de Trabalho\GitHub\Back-end-v1\03 - Acesso à dados com C#\01 - Acesso a dados com ADO.NET\DataAccess\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+E:\Usuários\Lucas\Área de Trabalho\GitHub\Back-end-v1\03 - Acesso à dados com C#\01 - Acesso a dados com ADO.NET\DataAccess\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+E:\Usuários\Lucas\Área de Trabalho\GitHub\Back-end-v1\03 - Acesso à dados com C#\01 - Acesso a dados com ADO.NET\DataAccess\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.genruntimeconfig.cache
