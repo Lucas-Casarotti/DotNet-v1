@@ -1,0 +1,6 @@
+1) Fazer um programa para ler um número inteiro N e depois os dados dos produtos comprados no mercado (id, nome, valor, quantidade), o usuário terá a possibilidade de adicionar ou remover um item.
+
+
+2) Fazer um programa para ler um número inteiro N e depois os dados (id, nome e salario) de N funcionários e retornar
+
+
